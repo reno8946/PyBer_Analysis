@@ -16,7 +16,7 @@ When looking at the pyber summary table created at the end of deliverable one, y
 
 When looking at the multiple line graph that was created for deliverable two, you'll notice that the total fares for each city type see slight peaks and drops on a weekly basis, but nothing signifant, as there are clear disparities in profits by city type, with urban acquiring the most and rural acquiring the least. Because there are smaller populations in rural and suburban areas compared to urban cities, it's expected that there would naturally be more drivers and demand from passengers as a result, hence the differences as you move into the less populated suburban areas and then into the even lesser populated and geographically disparate rural cities. However, there may be ways to challenge these disparities, which are addressed in the summary.
 
-![image](https://user-images.githubusercontent.com/70483866/95028165-e5b05680-0663-11eb-9e04-4bc0f55bef16.png)
+![image](https://user-images.githubusercontent.com/70483866/95028281-ccf47080-0664-11eb-942c-7b7da1ed6046.png)
       
 ## PyBer Analysis Summary
 
